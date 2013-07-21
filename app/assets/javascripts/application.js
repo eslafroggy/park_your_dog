@@ -14,7 +14,7 @@ window.onload = function () {
       title: park.name 
     });
     google.maps.event.addListener(marker, 'click', function() {
-      var html = "<strong>" + park.name + "</strong>";
+      var html = "<strong>" + park.name +"<br>"+ park.address + "</strong>";
       infowindow.setContent(html);
       infowindow.open(map, marker);
     });
