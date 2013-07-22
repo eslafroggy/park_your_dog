@@ -22,6 +22,11 @@ ActiveRecord::Schema.define(version: 20130719020511) do
     t.string   "name",        null: false
     t.text     "description"
     t.text     "address",     null: false
+    t.string   "fenced"
+    t.string   "accessible"
+    t.string   "parking"
+    t.string   "bathroom"
+    t.float    "size"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

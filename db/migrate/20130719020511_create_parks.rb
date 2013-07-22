@@ -6,6 +6,11 @@ class CreateParks < ActiveRecord::Migration
       t.string :name, null: false
       t.text :description
       t.text :address, null: false
+      t.string :fenced
+      t.string :accessible
+      t.string :parking
+      t.string :bathroom
+      t.float :size
 
       t.timestamps
     end

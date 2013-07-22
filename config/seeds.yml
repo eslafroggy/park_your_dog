@@ -1,0 +1,143 @@
+- :name: Alamo Square Park
+  :address: Hayes & Steiner
+  :longitude: -122.4355
+  :latitude: 37.7763
+  :size: 6.20 
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This park has grassy, tree-shaded slopes with spectacular city views, as well as a playground, tennis court, popular dog play area, picnic tables, benches, and flowerbeds. Dog-lovers mix with the many groups on walking tours of the square and surrounding neighborhood, and the park is a common stop for tour busses taking visitors around San Francisco.
+- :name: Alta Plaza Park
+  :address: Clay between Scott & Steiner on 2nd Terrace
+  :longitude: -122.437391
+  :latitude: 37.791235
+  :size: 0.60 
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: Alta Plaza Park is set atop a hill in the affluent Pacific Heights neighborhood and offers dramatic 360-degree views of the San Francisco Bay and Golden Gate Bridge. Dogs can roam free on the sloped grass or paved pathways in the southeast corner of this four block park.
+- :name: Bernal Heights Park
+  :address: Bernal Heights Blvd
+  :longitude: -122.4140
+  :latitude: 37.7430
+  :size: 20.20
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: Bernal Heights Park was once a quarry and is now a large natural area. Hawks can be seen swooping above the hilltop that looms over the mostly residential Bernal Heights neighborhood that is home to both young families and longtime residents. Because of the size and beauty of this park
+- :name: Buena Vista Dog Park
+  :address: Buena Vista & Haight St
+  :longitude: -122.4425
+  :latitude: 37.7691
+  :size: 0.80 
+  :fenced: Yes (Dog Run on the West side of the park is fenced in and shaded for off leash dog play)
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This dog paradise is situated above San Francisco’s legendary Haight Ashbury neighborhood and it is the perfect place to tune out the world and ramble along the winding trails. Buena Vista park gets its name from the many spots where a walker can peer out through the tree canopy and catch a glimpse of the Golden Gate Bridge and the rolling hills of the Marin Headlands. This park attracts residents of of the surrounding neighborhoods including the long-time residents of the dynamic Haight-Ashbury, the young families of Cole Valley and urban hipsters staked out in the the Lower Haight.
+- :name: Corona Heights Dog Park
+  :address: Roosevelt & Museum Way
+  :longitude: -122.4397
+  :latitude: 37.7655
+  :size: 0.44 
+  :fenced: Yes
+  :parking: No
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: Corona Heights Dog Play Area is a heavily used dog play area often described as rustic because of its proximity to the Corona Heights Natural Area. Nearby users of this dog area include residents of the Castro neighborhood to the south and Cole Valley/ Ashbury Heights to the northwest. In addition, this park draws residents from across the city because it is next to the popular Randall Museum, which is a destination for young families and adults who visit the science and nature museum, attend art classes or events at the theater or participate in one of the many clubs that meet there.
+- :name: Crocker Amazon Park
+  :address: Moscow & Geneva
+  :longitude: -122.4278
+  :latitude: 37.7150
+  :size: 1.70 
+  :fenced: Partially
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: The dog play areas in McLaren Park are among the largest in San Francisco and they offer hundreds of dogs a day both big fields and trails. There are two dog areas in this park, one behind the Jerry Garcia Amphitheater and one at the intersection of Mansell Street and John F. Shelley Drive. 
+- :name: Douglass Dog Play Area
+  :address: 26th & Douglass St
+  :longitude: -122.4389
+  :latitude: 37.7467
+  :fenced: Yes
+  :parking: No
+  :bathroom: No
+  :accessible: Limited Wheel Chair Access
+  :description: This park is located on a quiet dead-end street in Noe Valley.  Officially, Douglass Park is comprised of 2 parts, one is on Douglass at Cesar Chavez, and is for kids but not dogs.  They have a field and rec center and playground, etc.  The other part has an entrance on 27th Street at Douglass, and is an official off-leash dog play area.  For all practical purposes, they are 2 separate parks.
+- :name: Duboce Park
+  :address: Duboce & Scott St
+  :longitude: -122.4327
+  :latitude: 37.7695
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This sunny neighborhod park is a gathering spot for families and dog owners from all over Noe Valley, the Castro and the surrounding Duboce Park neighborhood.  The entire area including the Harvey Milk Arts Center was updated in 2008 and that renovation included substantial work on the dog play area. This park features both an off-leash dogs area and on-leash dog areas and is known for the social scene among parents, dog-owners and other park visitors.
+- :name: Eureka Valley Dog Park
+  :address: 100 Collingwood St
+  :longitude: -122.4364
+  :latitude: 37.7598
+  :fenced: Yes
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This dog park is fenced in with nice potted plants.  It's large enough for a good group of dogs and there is plenty of seating, thanks to a recent community upgrade.  There is a shaded area and a spigot to provide your dog with water
+- :name: Golden Gate Park Dog Play Area 1
+  :address: Martin Luther King Jr Dr & Bowling Green Dr
+  :longitude: -122.4617
+  :latitude: 37.7666
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: Golden Gate Park, visited by 13 million people a year, is one of San Francisco’s greatest treasures. Out of a windswept expanse of sand dunes, park engineer William Hammond Hall and master gardener John McLaren carved a verdant, horticulturally diverse, and picturesque public space where city dwellers can relax and reconnect with the natural world. Within Golden Gate Park’s 1,017 acres a visitor can discover gardens, playgrounds, lakes, picnic groves, trails, and an array of cultural venues, events, and activities. There are four dog play areas in Golden Gate Park including an all-sand dog training area in the northwest corner of the park. There is another play area in the northeast corner of the park just off Stanyan Street, one in the southeast corner near Kezar Stadium and one in the southwest quadrant. Like Golden Gate Park itself, these dog areas draw residents from the entire city and beyond who want to explore all areas of the park with their dogs on a leash and then take time for some offleash running in whichever corner of the park they happen to find themselves.
+- :name: Golden Gate Park Dog Play Area 2
+  :address: Fulton St & Stanyan St
+  :longitude: -122.4550
+  :latitude: 37.7745
+  :fenced: No
+  :parking: Yes
+  :bathroom: No
+  :accessible: Yes
+  :description: Golden Gate Park, visited by 13 million people a year, is one of San Francisco’s greatest treasures. Out of a windswept expanse of sand dunes, park engineer William Hammond Hall and master gardener John McLaren carved a verdant, horticulturally diverse, and picturesque public space where city dwellers can relax and reconnect with the natural world. Within Golden Gate Park’s 1,017 acres a visitor can discover gardens, playgrounds, lakes, picnic groves, trails, and an array of cultural venues, events, and activities. There are four dog play areas in Golden Gate Park including an all-sand dog training area in the northwest corner of the park. There is another play area in the northeast corner of the park just off Stanyan Street, one in the southeast corner near Kezar Stadium and one in the southwest quadrant. Like Golden Gate Park itself, these dog areas draw residents from the entire city and beyond who want to explore all areas of the park with their dogs on a leash and then take time for some offleash running in whichever corner of the park they happen to find themselves.
+- :name: Golden Gate Park Dog Play Area 3
+  :address: Martin Luther King Jr Dr & Sunset Blvd
+  :longitude: -122.4954
+  :latitude: 37.7659
+  :size: 4.88 
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: Golden Gate Park, visited by 13 million people a year, is one of San Francisco’s greatest treasures. Out of a windswept expanse of sand dunes, park engineer William Hammond Hall and master gardener John McLaren carved a verdant, horticulturally diverse, and picturesque public space where city dwellers can relax and reconnect with the natural world. Within Golden Gate Park’s 1,017 acres a visitor can discover gardens, playgrounds, lakes, picnic groves, trails, and an array of cultural venues, events, and activities. There are four dog play areas in Golden Gate Park including an all-sand dog training area in the northwest corner of the park. There is another play area in the northeast corner of the park just off Stanyan Street, one in the southeast corner near Kezar Stadium and one in the southwest quadrant. Like Golden Gate Park itself, these dog areas draw residents from the entire city and beyond who want to explore all areas of the park with their dogs on a leash and then take time for some offleash running in whichever corner of the park they happen to find themselves.
+- :name: Golden Gate Park Dog Training Area 
+  :address: Off 36th Ave in Golden Gate Park
+  :longitude: -122.4994
+  :latitude: 37.7710
+  :size: 1.22
+  :fenced: Yes
+  :parking: Yes
+  :bathroom: No
+  :accessible: Yes
+  :description: Golden Gate Park, visited by 13 million people a year, is one of San Francisco’s greatest treasures. Out of a windswept expanse of sand dunes, park engineer William Hammond Hall and master gardener John McLaren carved a verdant, horticulturally diverse, and picturesque public space where city dwellers can relax and reconnect with the natural world. Within Golden Gate Park’s 1,017 acres a visitor can discover gardens, playgrounds, lakes, picnic groves, trails, and an array of cultural venues, events, and activities. There are four dog play areas in Golden Gate Park including an all-sand dog training area in the northwest corner of the park. There is another play area in the northeast corner of the park just off Stanyan Street, one in the southeast corner near Kezar Stadium and one in the southwest quadrant. Like Golden Gate Park itself, these dog areas draw residents from the entire city and beyond who want to explore all areas of the park with their dogs on a leash and then take time for some offleash running in whichever corner of the park they happen to find themselves.
+- :name: Head & Brotherhood Dog Play Area
+  :address: Head St & Brotherhood Way
+  :longitude: -122.4642
+  :latitude: 37.7126
+  :fenced: No
+  :parking: No
+  :bathroom: No
+  :accessible: Yes
+  :description:
+- :name: Jefferson Square Dog Park
+  :address: Eddy & Gough
+  :longitude: -122.4264
+  :latitude: 37.7816
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: This oasis of green serves dogs and their families in an underserved neighorbood that is close to both the hip Hayes Valley neighborhood and Civic Center, which is the governmental center of San Francisco. The lush lawns in the comparatively flat park offer views of City Hall and the downtown. The park sits directly across the street from a housing project and provides a place for the low-income families and their dogs to enjoy some green space.
