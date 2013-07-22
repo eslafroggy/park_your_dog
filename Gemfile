@@ -16,6 +16,8 @@ gem 'devise'
 
 gem 'carrierwave'
 
+gem "twitter-bootstrap-rails"
+
 group :development, :test do
    gem 'rspec-rails', '~> 2.0'
  end
