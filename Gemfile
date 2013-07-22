@@ -14,6 +14,8 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'devise'
 
+gem 'carrierwave'
+
 group :development, :test do
    gem 'rspec-rails', '~> 2.0'
  end

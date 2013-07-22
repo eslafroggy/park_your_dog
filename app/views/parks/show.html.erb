@@ -1,3 +1,7 @@
-<h1>Motherfucking Parks</h1>
-
 <h2><%= @park.name %></h2>
+
+<% @park.photos.each do |photo| %>
+  <%= image_tag photo.photo.url %><br>
+<% end %>
+
+<%= render "photo_form" if user_signed_in? %>

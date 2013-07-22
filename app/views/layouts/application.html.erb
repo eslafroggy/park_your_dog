@@ -12,6 +12,10 @@
 <% else %>
   <%= link_to "sign in", new_user_session_path %> or <%= link_to "sign up", new_user_registration_path %>
 <% end %>
+<% flash.each do |k,v| %>
+  <div><%= v %></div>
+<% end %>
+ 
 <%= yield %>
   <%= javascript_include_tag "https://maps.googleapis.com/maps/api/js?key=AIzaSyBuSDa-9g9vuYmg1E2tYw-RknmrWuMtcK0&sensor=false", "application"%>
 </body>
