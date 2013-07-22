@@ -1,7 +1,10 @@
 <h2><%= @park.name %></h2>
-
+<br>
+<h3><%= @park.description %></h3>
+<br>
 <% @park.photos.each do |photo| %>
   <%= image_tag photo.photo.url %><br>
 <% end %>
 
 <%= render "photo_form" if user_signed_in? %>
+

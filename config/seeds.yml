@@ -127,11 +127,11 @@
   :address: Head St & Brotherhood Way
   :longitude: -122.4642
   :latitude: 37.7126
-  :fenced: No
+  :fenced: Yes
   :parking: No
   :bathroom: No
   :accessible: Yes
-  :description:
+  :description: Your pet will love to join you on-leash as you enjoy this small but pretty public park.
 - :name: Jefferson Square Dog Park
   :address: Eddy & Gough
   :longitude: -122.4264
@@ -141,3 +141,138 @@
   :bathroom: Yes
   :accessible: Limited Wheelchair Access
   :description: This oasis of green serves dogs and their families in an underserved neighorbood that is close to both the hip Hayes Valley neighborhood and Civic Center, which is the governmental center of San Francisco. The lush lawns in the comparatively flat park offer views of City Hall and the downtown. The park sits directly across the street from a housing project and provides a place for the low-income families and their dogs to enjoy some green space.
+- :name: Dolores Park
+  :address: 18th St. between Dolores & Church (off leash dog area is south of the tennis courts and soccer field to central lawn, and west of the path is south of central lawn between Church and Dolores St)
+  :longitude: -122.426941
+  :latitude: 37.759842
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: The views of the San Francisco skyline from Dolores Park are among the best from any dog park in the city, and the generally sunny Mission-district weather make this a perfect park for summer picnics where your dog can run free. Much like a bigger version of Alamo Square Park, Dolores Park is essentially just a large sloping expanse of grass; so don’t come here expecting to get a good workout hiking trails. And without a lot of things to explore, your dog will undoubtedly find that the other dogs in the park are the biggest attractions.
+- :name: Douglass Dog Park   
+  :address: 26th & Douglass St
+  :longitude: -122.4389
+  :latitude: 37.7467 
+  :fenced: Yes
+  :parking: No
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: PARK IS CURRENTLY UNDER RENNOVATION UNTIL AUGUST 2013, This park is located on a quiet dead-end street in Noe Valley.  Officially, Douglass Park is comprised of 2 parts, one is on Douglass at Cesar Chavez, and is for kids but not dogs. They have a field and rec center and playground, etc. The other part has an entrance on 27th Street at Douglass, and is an official off-leash dog play area. For all practical purposes, they are 2 separate parks.
+- :name: Fort Funston
+  :address: Skyline & Fort Funston
+  :longitude: -122.49464
+  :latitude: 37.714584
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: On the dunes at the south end of Ocean beach, towering above the Pacific Ocean, Fort Funston is one of the premiere dog hangouts on the Peninsula. As its name suggests this park was once a military outpost and two-gun battery that pointed seaward to protect mid-20th Century San Francisco from an attack. The remains of the battery are still intact and add a sense of martial history to the otherwise natural setting of sand dunes, eucalyptus groves and open beach. In addition to its draw for dog owners, Fort Funston is the main jumping off point for hang-gliders and parasailers who fly up and down the dune cliffs overlooking the beach.
+- :name: Lafayette Square Dog Park
+  :address: Washington & Laguna St
+  :longitude: -122.4268
+  :latitude: 37.7911
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: Lafayette Park is another hill-top park set amid the Pacific Height’s graceful homes. This terraced park offers commanding views of the entire city and the San Francisco Bay and Golden Gate Bridge. Lafayette Park is slated for a $10 million dollar renovation project that will enter the formal planning phase in April of this year, begin construction in May of next year and be complete in the spring of 2013. Current tentative plans call for a low barrier fence with plantings along one side of the dog play area in the southeast corner of the four-block park.
+- :name: Lake Merced Dog Park
+  :address: Lake Merced Blvd & Middlefield Dr
+  :longitude: -122.4879
+  :latitude: 37.7291 
+  :fenced: No
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: Off-leash dog park adjacent to Lake Merced in San Francisco, CA. Dog owners who bring their pets here should use extra caution, as the park is next to a roadway with heavy, high speed traffic.
+- :name: McKinley Square Dog Park
+  :address: 20th St & Vermont
+  :longitude: -122.4048
+  :latitude: 37.7590 
+  :fenced: Yes
+  :parking: No
+  :bathroom: Yes
+  :accessible: Limited Wheelchair Access
+  :description: There is a small off-leash dog park in McKinley Square in the Potrero Hill neighborhood of San Francisco, CA. Dog owners should be mindful that the dog run area is on steep, rugged terrain.
+- :name: McLaren Park
+  :address: Shelly Dr. & Mansell St.
+  :longitude: -122.418621
+  :latitude: 37.718828
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: The dog play areas in McLaren Park are among the largest in San Francisco and they offer hundreds of dogs a day both big fields and trails. There are two dog areas in this park, one behind the Jerry Garcia Amphitheater and one at the intersection of Mansell Street and John F. Shelley Drive.
+- :name: Mclaren Park Geneva Dog Park
+  :address: Geneva & Brookdale
+  :longitude: -122.4261
+  :latitude: 37.7117 
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: The dog play areas in McLaren Park are among the largest in San Francisco and they offer hundreds of dogs a day both big fields and trails. There are two dog areas in this park, one behind the Jerry Garcia Amphitheater and one at the intersection of Mansell Street and John F. Shelley Drive.
+- :name: McLaren Park
+  :address: Shelly Dr. & Mansell St.
+  :longitude: -122.418621
+  :latitude: 37.7874
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: 
+- :name: Mountain Lake Dog Park
+  :address: 1 Funston Ave
+  :longitude: -122.4667
+  :latitude: 37.718828
+  :fenced: No
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This dog play area sits just off the nature trails around Mountain Lake Park that draw residents from the Richmond District and nearby Presidio Heights neighborhoods. The wood-chip covered dell surrounded by wooded knolls offers plenty of room for dogs to fetch balls and sticks while neighbors catch up.
+- :name: Pine Lake/Stern Grove Dog Park
+  :address: Sloat Blvd & Vale St
+  :longitude: -122.4846
+  :latitude: 37.7362
+  :fenced: No
+  :parking: No
+  :bathroom: No
+  :accessible: Yes
+  :description: This park's lake is one of only 3 natural lakes left in San Francisco. The off leash area is on the second terrace of the park, west, and shares a boundary with Stern Grove Park, which also has an off leash area. There is a 1/5 mile trail from the Pine Lake DPA to the Stern Grove DPA. Dogs must be on leash when not in off lead areas, and they must be cleaned up after at all times.
+- :name: St Mary's Dog Park
+  :address: Murray & Justin Dr
+  :longitude: -122.4208
+  :latitude: 37.7328 
+  :fenced: Yes
+  :parking: No
+  :bathroom: No
+  :accessible: No
+  :description: This off-leash dog park in the Bernal Heights neighborhood of San Francisco is a small park with both grassy areas and a paved path with bench seating
+- :name: Potrero Hill Rec Center Dog Park
+  :address: 801 Arkansas St
+  :longitude: -122.3972
+  :latitude: 37.7572 
+  :fenced: Yes
+  :parking: Yes
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This small off-leash dog park area is located in the Potrero Hill neighborhood of San Francisco.
+- :name: Upper Noe Dog Park (AKA Joby's Run)
+  :address: Day & Sanchez St
+  :longitude: -122.4272
+  :latitude: 37.7426 
+  :fenced: Yes
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: This dog play area with a neighborhood feel is was rennovated in 2008 and renamed Joby’s Run in honor of a neighbor who was an active advocate for neighborhood dogs. Dogs can get up some speed at this flat, open play area, which features two long alleys for going after balls. Joby’s Run sits in amid a newly rennovated park complex that features an updated recreation center and gym, a newly rennovated children’s playground and baseball fields. On any given day the playground is crammed with strollers and toddlers and our gardeners estimate that more than 100 dogs visit this park every day.
+- :name: Walter Haas Dog Park
+  :address: Addison & Farnum
+  :longitude: -122.4354
+  :latitude: 37.7404
+  :fenced: Yes
+  :parking: No
+  :bathroom: Yes
+  :accessible: Yes
+  :description: Named after one of San Francisco’s most generous and well-known philanthopists, this enclosed dog play area is very popular with dog walkers and owners alike. It is at the top of a hill in the residential Diamond Heights neighborhood of San Francisco and features boulders for agile dogs to climb and bigger dogs to run around.                   
